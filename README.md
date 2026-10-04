@@ -45,12 +45,6 @@
 
 ---
 
-## 📈 Dashboard Preview
-
-*(You can publish the dashboard to your own Power BI workspace and link it here!)*
-
----
-
 ## 💡 Recommendations
 
 ✅ **Product Improvements**  
